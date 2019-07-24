@@ -1,0 +1,5 @@
+{
+    "sketch": "BuildingADice.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
