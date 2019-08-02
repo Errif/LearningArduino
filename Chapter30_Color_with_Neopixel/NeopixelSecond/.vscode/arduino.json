@@ -1,0 +1,6 @@
+{
+    "sketch": "NeopixelSecond.ino",
+    "board": "arduino:avr:unowifi",
+    "port": "COM3",
+    "output": "build"
+}
